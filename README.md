@@ -1,6 +1,10 @@
 # MCSwiftUIRefresh
 Implement pull-down refresh in SwiftUI
 
+![Kapture 2020-07-20 at 9.45.36.gif](https://i.loli.net/2020/07/20/z3QFAvC9VgaT8OM.gif)
+
+![企业微信截图_fa5a3d8b-c6d2-45b4-bbfc-a11dc6e1eece.png](https://i.loli.net/2020/07/20/c25RLj98wvdYo31.png)
+
 ## Usage
 ```swift
 struct ContentView: View {
